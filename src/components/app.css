@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right, black 50%, blue 100%);
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    padding: 0px 15px;
+}
+h2{
+    text-align: center;
+    color: rgb(197, 1, 1);
+    font-size: 2em;
+    font-style: oblique;
+    padding-top: 30px;
+}
+.link{
+    text-decoration: none;
+    color: rgb(197, 1, 1);
+}

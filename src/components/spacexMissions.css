@@ -1,0 +1,9 @@
+#missions>div {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: 33% 33% 33%; ;
+    align-items: center;
+    background: linear-gradient(to right, black 50%, blue 100%);
+    padding: 10px;
+    text-align: center;
+}
